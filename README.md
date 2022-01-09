@@ -1,5 +1,5 @@
 # GifApp
-check the website here https://wizardly-mahavira-510870.netlify.app/
+Check the website here https://wizardly-mahavira-510870.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
